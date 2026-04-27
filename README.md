@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### I'm looking to collaborate on AI, Full Stack and Cybersecurity projects  <br>🤝 I'm looking for help with advanced machine learning and system design  <br>🌱 I'm currently learning Artificial Intelligence and Advanced Web Development  <br>⚡ Fun fact: I love building useful tech projects during semester holidays
+#### I'm looking to collaborate on AI, Full Stack and Cybersecurity projects  <br>🤝 I'm looking for help with advanced machine learning and system design  <br>🌱 I'm currently learning Artificial Intelligence and Advanced Web Development  <br>⚡ Fun fact: I love building useful tech projects during semester holidays
 
 
 ## 🌐 Socials:
