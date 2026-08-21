@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif)
 <div align="center">
 
 <h1>Hello, I'm Apoorva Nayak👋</h1> 
