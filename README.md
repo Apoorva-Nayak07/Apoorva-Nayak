@@ -1,4 +1,4 @@
-![Developer](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
+
 <div align="center">
 
 <h1>Hello, I'm Apoorva Nayak👋</h1> 
