@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Apoorva Nayak — Full Stack, Cybersecurity, AI/ML" />
+<a href="https://github.com/Apoorva-Nayak07">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Apoorva+Nayak+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cybersecurity+%7C+AI%2FML;I+BUILD+%E2%86%92+ANALYZE+%E2%86%92+SECURE+%E2%86%92+DEPLOY;Turning+ideas+into+real-world+software+%F0%9F%9A%80" alt="Animated introduction" />
+</a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Apoorva-Nayak07/Apoorva-Nayak07/main/assets/hero.svg" width="100%" alt="Apoorva Nayak — Full Stack, Cybersecurity, AI/ML" />
 
 <br/>
 
@@ -33,7 +39,7 @@ I enjoy taking an idea from **concept → code → working product**, while keep
 </td>
 <td width="38%" align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Developer terminal" />
+<img src="https://raw.githubusercontent.com/Apoorva-Nayak07/Apoorva-Nayak07/main/assets/terminal.svg" width="100%" alt="Developer terminal" />
 
 </td>
 </tr>
@@ -207,6 +213,6 @@ DATA            ██████████████░░░░   SQL •
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Keep building, keep learning, keep securing" />
+<img src="https://raw.githubusercontent.com/Apoorva-Nayak07/Apoorva-Nayak07/main/assets/footer.svg" width="100%" alt="Keep building, keep learning, keep securing" />
 
 </div>
