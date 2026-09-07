@@ -11,13 +11,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Apoorva-Nayak07/Apoorva-Nayak07/main/assets/hero.svg" width="100%" alt="Apoorva Nayak — Full Stack, Cybersecurity, AI/ML" />
-
-<br/>
-
-<a href="https://github.com/Apoorva-Nayak07">🏠 GitHub</a> &nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/apoorva-nayak1205/">💼 LinkedIn</a> &nbsp;•&nbsp;
-<a href="mailto:apoorvanayak07@gmail.com">✉️ Email</a>
 
 </div>
 
