@@ -1,3 +1,8 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:22D3EE&height=220&section=header&text=Apoorva%20Nayak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Cybersecurity%20%7C%20AI%2FML&descAlignY=58&descSize=18" width="100%" alt="header"/> <a href="https://github.com/Apoorva-Nayak07"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=I+BUILD+%E2%86%92+ANALYZE+%E2%86%92+SECURE+%E2%86%92+DEPLOY;Turning+ideas+into+real-world+software+%F0%9F%9A%80;Full+Stack+Developer+%7C+CSE+Student+%7C+VTU" alt="Typing SVG" /> </a> <br/>
+
+<a href="https://www.linkedin.com/in/apoorva-nayak1205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:apoorvanayak07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Apoorva-Nayak07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Apoorva-Nayak07&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="profile views"/> </div>
 <div align="center">
 
 <a href="https://github.com/Apoorva-Nayak07">
