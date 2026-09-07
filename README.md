@@ -179,17 +179,6 @@ Full-stack procurement platform with a modern web architecture.
 
 ---
 
-### 🐍 Contribution Snake (3D-style animation)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Apoorva-Nayak07/Apoorva-Nayak07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-
-</div>
-
-> This animated snake "eats" your contribution graph and auto-updates daily. It needs a one-time GitHub Actions setup — instructions below.
-
----
 
 ### 🏆 Highlights
 
@@ -206,7 +195,7 @@ Full-stack procurement platform with a modern web architecture.
 ### 📚 Learning Roadmap
 
 ```text
-CYBERSECURITY   ████████████████░░   SOC • IDS • Secure Coding
+CYBERSECURITY   ████████████░░░░░░   SOC • IDS • Secure Coding
 AI / ML         ███████████████░░░   ML • CV • Intelligent Apps
 FULL STACK      █████████████████░   React • Node • Flask • APIs
 CLOUD           ████████████░░░░░░   AWS • DevOps • Deployment
