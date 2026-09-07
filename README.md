@@ -1,51 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=APOORVA%20NAYAK&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Cybersecurity%20%7C%20AI%20%2F%20ML&descAlignY=60&descSize=20&animation=fadeIn&color=0:0f172a,50:111827,100:0b1120" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Apoorva Nayak — Full Stack, Cybersecurity, AI/ML" />
 
-<a href="https://github.com/Apoorva-Nayak07">
-  <img src="https://img.shields.io/badge/GitHub-Apoorva--Nayak07-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/apoorva-nayak1205/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:apoorvanayak07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+systems+that+solve+real+problems.;Engineering+secure+and+intelligent+applications.;Exploring+AI%2C+ML%2C+Cloud+%26+Cybersecurity.;Code+%E2%80%A2+Create+%E2%80%A2+Secure+%E2%80%A2+Repeat+%F0%9F%9A%80" />
+<a href="https://github.com/Apoorva-Nayak07">🏠 GitHub</a> &nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/apoorva-nayak1205/">💼 LinkedIn</a> &nbsp;•&nbsp;
+<a href="mailto:apoorvanayak07@gmail.com">✉️ Email</a>
 
 </div>
 
-<br>
+---
 
-## ◈ WHO AM I?
+## 👩‍💻 WHO AM I?
 
 <table>
 <tr>
-<td width="58%">
+<td width="62%">
 
-### 👩‍💻 Apoorva Nayak
+### Hey, I'm Apoorva 👋
 
-**Computer Science & Engineering Student** building at the intersection of **software engineering, AI/ML and cybersecurity**.
+🎓 **Computer Science & Engineering Student**
 
-I enjoy turning ideas into usable products — from full-stack web apps and analytics dashboards to AI-driven security systems.
+I build practical software at the intersection of **Full Stack Development, Artificial Intelligence, Data Analytics and Cybersecurity**.
 
-```text
-┌─────────────────────────────────────────────┐
-│  BUILD  →  ANALYZE  →  SECURE  →  SCALE    │
-└─────────────────────────────────────────────┘
-```
+I enjoy taking an idea from **concept → code → working product**, while keeping usability, performance and security in mind.
+
+**My workflow**
+
+`💡 IDEATE` → `⚙️ BUILD` → `📊 ANALYZE` → `🔐 SECURE` → `🚀 DEPLOY`
 
 </td>
-<td width="42%">
+<td width="38%" align="center">
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Apoorva-Nayak07&show_icons=true&theme=github_dark&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/>
-
-</div>
+<img src="./assets/terminal.svg" width="100%" alt="Developer terminal" />
 
 </td>
 </tr>
@@ -55,95 +43,110 @@ I enjoy turning ideas into usable products — from full-stack web apps and anal
 
 <div align="center">
 
-| 🔐 Cybersecurity | 🤖 AI / ML | 🌐 Full Stack | 📊 Data |
+| 🔐 CYBERSECURITY | 🤖 AI / ML | 🌐 FULL STACK | 📊 DATA |
 |:---:|:---:|:---:|:---:|
-| IDS & Security Tools | Intelligent Applications | Scalable Web Apps | Analytics & Insights |
+| Security tools & IDS | Intelligent systems | Web applications | Analytics & ML |
+| Secure coding | Computer Vision | REST APIs | SQL & Power BI |
 
 </div>
+
+---
 
 ## 🧠 TECH ARSENAL
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,php" />
+### 💻 Languages
+`Java` `Python` `JavaScript` `PHP` `SQL`
 
-### Frontend • Backend • Databases
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,firebase" />
+### 🎨 Frontend
+`HTML5` `CSS3` `JavaScript` `React` `Bootstrap`
 
-### AI • Data • Cloud • Tools
-<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode,aws,flask,netlify,vercel" />
+### ⚙️ Backend & APIs
+`Node.js` `Express.js` `Flask` `REST APIs`
 
-</div>
+### 🗄️ Databases & Cloud
+`MySQL` `MongoDB` `Firebase` `AWS`
 
-<br>
+### 🤖 AI / Data
+`Machine Learning` `TensorFlow` `Data Science` `Power BI` `Pandas` `scikit-learn`
 
-## 🛡️ SECURITY & AI FOCUS
+### 🛡️ Security
+`NMAP` `Wireshark` `WHOIS` `nslookup` `WhatWeb` `Recon-ng` `Sublist3r`
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=protonvpn&logoColor=67e8f9"/>
-<img src="https://img.shields.io/badge/Intrusion_Detection-0f172a?style=for-the-badge&logo=securityscorecard&logoColor=67e8f9"/>
-<img src="https://img.shields.io/badge/Malware_Detection-0f172a?style=for-the-badge&logo=hackthebox&logoColor=67e8f9"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0f172a?style=for-the-badge&logo=tensorflow&logoColor=67e8f9"/>
-<img src="https://img.shields.io/badge/AI_Engineering-0f172a?style=for-the-badge&logo=openai&logoColor=67e8f9"/>
+### 🧰 Tools
+`Git` `GitHub` `VS Code` `Netlify` `Vercel`
 
 </div>
 
-## 🚀 FEATURED WORK
+---
+
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛡️ CyberShield IDS
-Network intrusion detection and cybersecurity monitoring platform.
+AI-assisted **Intrusion Detection System** for identifying suspicious network activity.
 
-**Stack:** Python • ML • Cybersecurity
+**Python • Machine Learning • Cybersecurity**
+
+<a href="https://github.com/Apoorva-Nayak07/CyberShield---Intrusion-Detection-System">View Project →</a>
 
 </td>
 <td width="50%">
 
 ### 🦠 AI Malware Detection
-Machine-learning based malware classification and threat analysis.
+Machine-learning based system for **malware classification and threat detection**.
 
-**Stack:** Python • Random Forest • Isolation Forest
+**Python • Random Forest • Isolation Forest**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎙️ AI Interview Emotion Analyzer
-AI-assisted interview analysis focused on candidate responses and presentation.
-
-**Stack:** Python • AI • Computer Vision
-
-</td>
-<td width="50%">
-
-### 🌱 AGROVA / AgriVision
-Smart agriculture platform combining crop intelligence and AI-powered assistance.
-
-**Stack:** AI/ML • Web • Data
+<a href="https://github.com/Apoorva-Nayak07/AI-Malware-Detection-System">View Project →</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
 ### 🔎 Code Review & Vulnerability Scanner
-Scans source code for potential security weaknesses and review issues.
+Analyzes source code and highlights potential **security vulnerabilities**.
 
-**Stack:** Python • Security • Static Analysis
+**Python • Security • Static Analysis**
+
+<a href="https://github.com/Apoorva-Nayak07/Code-review-and-vulnerability-scanner">View Project →</a>
 
 </td>
-<td width="50%">
+<td>
+
+### 🎙️ AI Interview Emotion Analyzer
+AI-powered interview analysis exploring **emotion and presentation signals**.
+
+**Python • AI • Computer Vision**
+
+<a href="https://github.com/Apoorva-Nayak07/AI-Interview-Emotion-Analyzer">View Project →</a>
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🌱 AGROVA
+Smart agriculture platform for **crop intelligence and AI-powered assistance**.
+
+**AI/ML • Web • Data**
+
+<a href="https://github.com/Apoorva-Nayak07/AGROVA">View Project →</a>
+
+</td>
+<td>
 
 ### 🛒 ProcureHub
-Procurement platform with a modern full-stack architecture.
+Full-stack procurement platform with a modern web architecture.
 
-**Stack:** React • Flask • SQL
+**React • Flask • SQL**
+
+<a href="https://github.com/Apoorva-Nayak07/ProcureHub">View Project →</a>
 
 </td>
 </tr>
@@ -151,85 +154,59 @@ Procurement platform with a modern full-stack architecture.
 
 <div align="center">
 
-<a href="https://github.com/Apoorva-Nayak07?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-67E8F9?style=for-the-badge&logo=github&logoColor=0f172a"/>
-</a>
+<a href="https://github.com/Apoorva-Nayak07?tab=repositories"><strong>⚡ EXPLORE ALL PROJECTS →</strong></a>
 
 </div>
 
-## 📈 GITHUB PULSE
+---
+
+## 🏆 HIGHLIGHTS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorva-Nayak07&bg_color=0b1120&color=67e8f9&line=38bdf8&point=ffffff&area=true&hide_border=true&custom_title=Apoorva%20Nayak%20-%20Contribution%20Pulse" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorva-Nayak07&theme=dark&hide_border=true&background=0B1120&ring=67E8F9&fire=22D3EE&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" width="55%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva-Nayak07&theme=github_dark" width="100%"/>
+| 🥈 Hackathon | 🎓 Education | 🔐 Focus | 🚀 Goal |
+|:---:|:---:|:---:|:---:|
+| **2nd Place** | **B.E. CSE** | **Cyber + AI** | **Software Engineer** |
+| AR/VR Innovation | VTU | Secure Systems | Build • Learn • Grow |
 
 </div>
 
-## 🏆 ACHIEVEMENTS & MILESTONES
+---
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Apoorva-Nayak07&theme=onestar&no-frame=true&no-bg=true&margin-w=12&row=1" width="95%"/>
-
-</div>
-
-## 📚 WHAT I'M LEARNING
+## 📚 LEARNING ROADMAP
 
 ```text
-Cybersecurity    ███████████████░░░   Detection • Secure Coding • SOC
-AI / ML          ██████████████░░░░   Applied ML • Computer Vision • NLP
-Full Stack       ███████████████░░░   React • Node • Flask • APIs
-Cloud            ███████████░░░░░░░   AWS • Deployment • DevOps
-Data             █████████████░░░░░   SQL • Power BI • Analytics
+CYBERSECURITY   ████████████████░░   SOC • IDS • Secure Coding
+AI / ML         ███████████████░░░   ML • CV • Intelligent Apps
+FULL STACK      █████████████████░   React • Node • Flask • APIs
+CLOUD           ████████████░░░░░░   AWS • DevOps • Deployment
+DATA            ██████████████░░░░   SQL • Power BI • Analytics
 ```
 
-## 🧩 MY DEVELOPER MINDSET
+---
+
+## 💎 DEVELOPER MINDSET
 
 <div align="center">
 
-> **Think deeply. Build boldly. Secure everything.**
+### **Think deeply. Build boldly. Secure everything.**
+
+`LEARN` 🧠 &nbsp; `BUILD` ⚙️ &nbsp; `SECURE` 🔐 &nbsp; `SCALE` 🚀
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center">🧠<br><b>LEARN</b><br/>Keep evolving</td>
-<td align="center">⚙️<br><b>BUILD</b><br/>Ship real projects</td>
-<td align="center">🔐<br><b>SECURE</b><br/>Design responsibly</td>
-<td align="center">🚀<br><b>GROW</b><br/>Improve every day</td>
-</tr>
-</table>
+---
 
-## 🌐 CONNECT
+## 🌐 LET'S CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/apoorva-nayak1205/">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=67e8f9"/>
-</a>
-<a href="https://github.com/Apoorva-Nayak07">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9"/>
-</a>
-<a href="mailto:apoorvanayak07@gmail.com">
-<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=67e8f9"/>
-</a>
+<a href="https://www.linkedin.com/in/apoorva-nayak1205/">💼 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/Apoorva-Nayak07">🐙 GitHub</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="mailto:apoorvanayak07@gmail.com">📩 Email</a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Apoorva-Nayak07&label=PROFILE%20VIEWS&color=0f172a&style=for-the-badge"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b1120,50:111827,100:0f172a" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="Keep building, keep learning, keep securing" />
 
 </div>
